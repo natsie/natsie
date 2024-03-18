@@ -1,7 +1,7 @@
 <img src="./img/_46daaee7-c10f-4e2e-a1ee-3fa853683405.jfif">
 
 - 👋 Hi, I’m Oghenevwegba Obire (@DevJesseCode)
-- 💻 I am a web developer and also make 🎮 Scratch games.
+- 💻 I am a web developer and also make 🎮 Scratch and HTML5 and Javascript games.
 - 📌 My specialities are HTML, CSS, and Javascript.
 
 <img src="https://github.com/DevJesseCode/DevJesseCode/assets/81907733/074912bf-f341-49ec-a7ed-ae091201e356" width="30px" title="HTML">
