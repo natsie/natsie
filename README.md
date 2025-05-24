@@ -1,5 +1,3 @@
-<img src="./img/_46daaee7-c10f-4e2e-a1ee-3fa853683405.jfif">
-
 # Hi👋
 - 💻 I am learning front-end web development.
 - 📌 So I guess my stack is
